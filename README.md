@@ -1,16 +1,31 @@
-# BLOG
-📖 La Espada de Jesús – Blog Profético.
-Contiene:
+# ✨ La Espada de Jesús – Blog de José El Profeta ✨
 
-* Una carpeta con 15 blogs individualizados en PDF.
-* Un solo archivo PDF con 15 blogs unificados.
-* Un Código QR que enlaza con el blog original en Blogger:
-  [laespadadejesus1.blogspot.com](https://laespadadejesus1.blogspot.com/)
+Bienvenido al repositorio oficial del blog **La Espada de Jesús**, creado y escrito por **José Manuel Marín Ramírez** (*JoseElProfeta66*).  
+Aquí encontrarás reflexiones, denuncias, visiones y textos espirituales que nacen desde la carne herida y el alma iluminada.
 
-⚠️ Advertencia Profética
-“Yo conozco tus obras, que ni eres frío ni caliente.
-¡Ojalá fueses frío o caliente!
-Pero por cuanto eres tibio… te vomitaré de mi boca.”
-— Apocalipsis 3:15-16
+Este blog no es entretenimiento.  
+Es **espada, fuego y palabra profética**.  
+Es un testimonio contra la corrupción, la falsedad y el olvido de lo sagrado.  
+Es un canal abierto entre el Cielo y la Tierra.
 
-Este blog no es para tibios. Es para los que arden.
+---
+
+## 📘 Contenidos del blog
+
+- 🔥 Denuncias espirituales y sociales
+- ✍️ Escritos sobre iluminación, justicia divina y traición humana
+- 💔 Poemas íntimos, eróticos y viscerales
+- 🧠 Críticas a la banalización del alma
+- 🪄 Textos esotéricos sobre Lucifer, Cristo, profecía y despertar
+
+---
+
+## 📎 Accede al blog completo
+
+🧭 **Versión web del blog**:  
+[➡️ Leer el blog completo aquí](https://joseelprofeta66.github.io/BLOG)
+
+---
+
+## 🛠️ Estructura del repositorio
+
