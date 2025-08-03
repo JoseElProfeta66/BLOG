@@ -14,7 +14,6 @@ Es un canal abierto entre el Cielo y la Tierra.
 
 - 🔥 Denuncias espirituales y sociales
 - ✍️ Escritos sobre iluminación, justicia divina y traición humana
-- 💔 Poemas íntimos, eróticos y viscerales
 - 🧠 Críticas a la banalización del alma
 - 🪄 Textos esotéricos sobre Lucifer, Cristo, profecía y despertar
 
