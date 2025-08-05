@@ -16,6 +16,9 @@ Hay mensajes para los que saben mirar el cielo y escuchar el silencio.
 - 🔮 **Esquemas astrológicos y oráculos**  
   Resúmenes por signos, portales, eclipses y conjunciones.
 
+[➡️ Leer aquí](https://github.com/JoseElProfeta66/BLOG/blob/main/ASTROLOG%C3%8DA_Y_OR%C3%81CULOS/PREDICCIONES%20PARA%20ESPA%C3%91A%20-%202025%20al%202030.pdf)
+
+
 ---
 
 ## 📜 Uso y difusión
