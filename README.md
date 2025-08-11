@@ -26,7 +26,7 @@ Es un canal abierto entre el Cielo y la Tierra.
 🌐 **Versión web del blog**:  
 [➡️ Leer el blog completo aquí](https://laespadadejesus1.blogspot.com)
 
-🧭 **Versión local del blog**:  
+🧭 **Versión local de 15 blog**:  
 [➡️ Leer el blog completo aquí](https://github.com/JoseElProfeta66/BLOG/blob/main/LA_ESPADA_DE_JESUS_15_BLOG.pdf)
 
 
