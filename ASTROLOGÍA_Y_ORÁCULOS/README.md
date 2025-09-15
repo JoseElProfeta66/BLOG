@@ -18,7 +18,11 @@ Hay mensajes para los que saben mirar el cielo y escuchar el silencio.
 
 [➡️ Leer aquí](https://github.com/JoseElProfeta66/BLOG/blob/main/ASTROLOG%C3%8DA_Y_OR%C3%81CULOS/PREDICCIONES%20PARA%20ESPA%C3%91A%20-%202025%20al%202030.pdf)
 
-(https://github.com/JoseElProfeta66/BLOG/blob/main/ASTROLOG%C3%8DA_Y_OR%C3%81CULOS/%C2%BFQUE%20DICEN%20LOS%20ASTROS%20DESDE%20SEPTIEMBRE%20A%20DICIEMBRE%202025_.pdf)
+- 🗓️ **Predicciones para España (septiembre-diciembre-2025)**  
+  Tránsitos planetarios, fechas clave y advertencias proféticas para el país.
+
+[➡️ Leer aquí](https://github.com/JoseElProfeta66/BLOG/blob/main/ASTROLOG%C3%8DA_Y_OR%C3%81CULOS/%C2%BFQUE%20DICEN%20LOS%20ASTROS%20DESDE%20SEPTIEMBRE%20A%20DICIEMBRE%202025_.pdf)
+
 ---
 
 ## 📜 Uso y difusión
