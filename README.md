@@ -33,12 +33,10 @@ Es un canal abierto entre el Cielo y la Tierra.
 
 ---
 
-## 🌸 Nota del autor
-Este blog se ofrece gratuitamente al mundo, como acto de conciencia, memoria y amor.
-Puede compartirse libremente, citarse, traducirse y difundirse, siempre que no se haga con fines comerciales.
-
-No fue escrito para el lucro ajeno, sino para despertar conciencias dormidas.
-El sufrimiento que aquí se entrega no tiene precio, y su valor reside en la verdad que revela.
+## Licencia
+Este BLOG se distribuye bajo la licencia **Creative Commons BY-NC-SA 4.0**.  
+Atribución obligatoria, uso no comercial, compartir igual.  
+Texto completo: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es
 
 “La palabra que nace del alma no se vende. Se honra, se respeta… o se teme.”
 
